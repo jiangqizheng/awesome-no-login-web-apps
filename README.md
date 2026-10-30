@@ -233,6 +233,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Programming Tools
 
 * [CSS Minifier](https://cssminifier.com/) - Minifies CSS by removing whitespace and comments.
+* [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games and MCP servers organized by the job you need done; browse without creating an account.
 * [UglifyJS JavaScript minifier](https://skalman.github.io/UglifyJS-online/) - Minifies and obfuscates JavaScript.
 * [HTML minifier by @kangax](https://kangax.github.io/html-minifier/) - HTML minifier. Minifies inline CSS and JavaScript too.
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, notification icon etc generator from existing images.
